@@ -1,0 +1,11 @@
+com.mrcrayfish.obfuscate
+com.mrcrayfish.obfuscate.asm
+com.mrcrayfish.obfuscate.client.event
+com.mrcrayfish.obfuscate.client.model
+com.mrcrayfish.obfuscate.client.model.layer
+com.mrcrayfish.obfuscate.client.renderer.entity
+com.mrcrayfish.obfuscate.common.data
+com.mrcrayfish.obfuscate.network
+com.mrcrayfish.obfuscate.network.handshake
+com.mrcrayfish.obfuscate.network.message
+com.mrcrayfish.obfuscate.proxy
